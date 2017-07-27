@@ -1,3 +1,6 @@
 {
-	"api" : "http://moizsms.azurewebsites.net"
+	"api" : "http://moizsms.azurewebsites.net",
+	"web" : "http://moizsms.azurewebsites.net",
+	"cloudMsg" : { "senderId" : ""},
+	"version" :"1000544845804"1
 }
