@@ -1,6 +1,6 @@
 {
-	"api" : "http://moizsms.com/api",
-	"web" : "http://moizsms.com",
+	"api" : "https://moizsms.com/api",
+	"web" : "https://moizsms.com",
 	"cloudMsg" : { "senderId" : "1000544845804"},
 	"version" :"1"
 }
